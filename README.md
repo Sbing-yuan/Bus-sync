@@ -14,5 +14,5 @@
 - qualifier : indicate safe pass, stop glitch state crossing
 ## Timing
 ![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Bus_sync3.PNG)
-> case1 : without glitch state
-> case2 : glitch state emerge but not able to pass through
+- case1 : without glitch state
+- case2 : glitch state emerge but not able to pass through
