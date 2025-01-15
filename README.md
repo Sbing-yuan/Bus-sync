@@ -7,3 +7,5 @@
 > For multi-bit signal clock domain crossing, not all bits can be sample in one specific clock edge. For example 4-bit binary counter transition from 0111->1000
 > involve all 4 bit transition in one clock edge. Trying to sample this binary signal to another clock domain will be a disaster. Because of bit skew, random condions from 0000, 0001 ... 1111
 > are all possible outcomes. Even though we can deal with metastable using 2FF synchonizer, glitch states will have to be dealt using other techniques. 
+## Block diagrams for multi-bit CDC handeling without load signal
+![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Bus_sync.PNG)
