@@ -14,8 +14,8 @@
 
 ![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Bus_sync/BS4.PNG)
 
-> Another Flip-Flops state can be used, then compare the 2nd and the 3rd stage are equal or not.
-> In most of cases, Glitch state can't last longer than 1T, if it does, cascade 4th stage and so on
+> Another Flip-Flops stage can be used, then compare the 2nd and the 3rd stage are equal or not.
+> In most of cases, Glitch state can't last longer than 1T, if it does, cascade 4th stage and so on.
 
 ![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Bus_sync/BS5.PNG)
 ## Timing Diagram of Bus-sync without additional dataload
