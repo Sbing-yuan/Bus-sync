@@ -19,5 +19,5 @@
 
 ![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Bus_sync/BS5.PNG)
 ## Timing Diagram of Bus-sync without additional dataload
-![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Bus_sync/Skew_Bus.png)
-![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Bus_sync/No_Skew_Bus.png)
+![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/Skew_Bus_transfer.svg)
+![image](https://github.com/Sbing-yuan/Bus-sync/blob/main/No_Skew_Bus_transfer.svg)
